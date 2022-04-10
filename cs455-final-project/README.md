@@ -1,11 +1,6 @@
-# Sample Snack app
+# Final Project -- My3dmodel Viewer App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Currently: Able to orbit via button controls on web app of Expo, Yay!
+![image](https://user-images.githubusercontent.com/67940767/162602687-bfe89d17-5ec4-43d2-a48c-4d85e632c309.png)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Cannot get it to work on emulators/ or on my phone sadly: 
