@@ -158,11 +158,3 @@ const styles = StyleSheet.create({
 });
 
 export default Nav;
-//Reference: @wcandillon/728f26
-//https://docs.expo.dev/bare/using-libraries/
-
-//https://blog.logrocket.com/react-three-fiber-3d-rendering-in-the-browser/
-
-//https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
-
-//or orbit control
