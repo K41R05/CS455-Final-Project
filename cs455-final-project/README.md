@@ -26,7 +26,7 @@ The My3dmodel Viewer app allows users to view prebuilt 3d objects on the applica
 * Links to further reading
 -----
 ### Demo Screenshots
----
+
   Web Screen Shot:
   <image src="https://user-images.githubusercontent.com/67940767/162602687-bfe89d17-5ec4-43d2-a48c-4d85e632c309.png" width="30%" height="30%">
     
