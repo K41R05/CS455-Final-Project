@@ -1,7 +1,10 @@
 # Final Project -- My3dmodel Viewer App
 ***
-![image](https://user-images.githubusercontent.com/67940767/162885546-0c723dab-77a0-4d5c-bc89-beba41fdf74f.png)
 
+<p align="center">
+  <image src="https://user-images.githubusercontent.com/67940767/162885546-0c723dab-77a0-4d5c-bc89-beba41fdf74f.png" width="50%" height="50%">
+</p>
+  
 The My3dmodel Viewer app allows users to view prebuilt 3d objects on the application.
 
 
@@ -24,14 +27,14 @@ The My3dmodel Viewer app allows users to view prebuilt 3d objects on the applica
 -----
 ### Demo Screenshots
 ---
-Web Screen Shot:
+  Web Screen Shot:
+  <image src="https://user-images.githubusercontent.com/67940767/162602687-bfe89d17-5ec4-43d2-a48c-4d85e632c309.png" width="30%" height="30%">
+    
+  Android Screen Shot:
+    <image src="https://user-images.githubusercontent.com/67940767/163069410-05d14373-58fa-45a0-97ad-c0ce4ae6ace6.png" width="30%" height="30%">
+      
 
-![image](https://user-images.githubusercontent.com/67940767/162602687-bfe89d17-5ec4-43d2-a48c-4d85e632c309.png)
-
-Android Screen Shot:
-
-![image](https://user-images.githubusercontent.com/67940767/163069410-05d14373-58fa-45a0-97ad-c0ce4ae6ace6.png)
-
+    
 -----
 ### Features List
 * **Darkmode/Lightmode:** The user can toggle the background colour of the app by using the toggle button with the Moon/Sun Symbol.
