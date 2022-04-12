@@ -1,4 +1,8 @@
 # Final Project -- My3dmodel Viewer App
+-----
+![image](https://user-images.githubusercontent.com/67940767/162885546-0c723dab-77a0-4d5c-bc89-beba41fdf74f.png)
+
+-----
 
 Currently: Able to orbit via button controls on web app of Expo, Yay!
 ![image](https://user-images.githubusercontent.com/67940767/162602687-bfe89d17-5ec4-43d2-a48c-4d85e632c309.png)
