@@ -71,11 +71,20 @@ _Unfortunately this didn't work for me, but it can still be useful for others_
 **For Mobile users:** The user must have the mobile app Expo Go to be able to view the application on their respective mobile device (this app is rendered with consideration for android users).
     
 **For Web apps:** The user can run the code directly from the Expo snack ide. Then, they can view their code through the preview toggle button, that will open up a preview of their application through four ways: QR code for their device (namely for android), iOS emulator, Android emulator, and Web emulator).
+    
    
 **For Server development:** The user can run the created project folder on the Expo server by switching to the project file directory and using the npm start command on the git terminal. Then, the user can access the localhost server to run the code for the application.
 
 -----
 ### Manifest
+ The main list of this project include:
+    *assets - contains images for the app.json to use as icons for their views
+    *App.js - The source code for the application
+    *README.md - This file!
+    *app.json - contains the emulator's specific dependencies
+    *babel.config.js - contains the babel runtime helpfer for exporting the application onto viewing devices
+    *package.json - contains the list of dependcies and libraries that are used in the application
+    
  These are the main dependencies and their version that is specific to ensuring that the application runs as intended.
 ```JavaScript
     "expo": "~43.0.2",
@@ -121,6 +130,10 @@ This and other files meta information of where and how the app was developed in,
 Screenshot of using React Developer Tools:
     
   <image src="https://user-images.githubusercontent.com/67940767/163111129-cb01f581-0bd6-4162-9170-4a53d4b2ad77.png" width="80%" height="80%">
+    
+-----
+### Contact information
+  You can reach me at this email: valiantbeat@gmail.com
     
 -----
 ### Credits and Acknowledgements
