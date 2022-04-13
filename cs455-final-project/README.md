@@ -165,6 +165,9 @@ Screenshot of using React Developer Tools:
 * Figure out orbitcontrol, so that the user can rotate the object, pan, and zoom through the use of touch gesture
 * ...more cool things with 3d models! 
 
+**The Project Status:**
+*Looking to do further research with the links for further reading in the near future
+    
 -----
 ### Links to further reading on the topic
 _Particularly, what libraries to look into for users interested in developing and progressing the app on Expo client_
