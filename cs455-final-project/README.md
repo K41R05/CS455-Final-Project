@@ -168,7 +168,7 @@ Screenshot of using React Developer Tools:
 * ...more cool things with 3d models! 
 
 **The Project Status:**
-*Looking to do further research with the links for further reading in the near future
+_Looking to do further research with the links for further reading in the near future._
     
 -----
 ### Links to further reading on the topic
