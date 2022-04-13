@@ -138,7 +138,7 @@ Screenshot of using React Developer Tools:
 -----
 ### Credits and Acknowledgements
 * [React-three-fiber](https://github.com/pmndrs/react-three-fiber "React-three-fiber GitHub") by the Poimandres, a group created repository for open source developer collectives.
-** Additional credit to the react-three-fiber team for how they created their functions of the object:
+** Additional credit to the react-three-fiber team for the sample on how they created their functions of the object:
 ```JavaScript
      return (
     <mesh
