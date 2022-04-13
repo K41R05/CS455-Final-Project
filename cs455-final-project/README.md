@@ -117,7 +117,7 @@ This and other files meta information of where and how the app was developed in,
 ### Bug List
 **For Mobile users:** When viewing through multiple objects on a mobile device, revisiting an object the second time sometimes causes the object to shrink and move to the lower left corner of the screen. I have no clue as to why this happens, and can only put it on the bug list for now.
     
-  Screenshot of bug:
+  Screenshot of bug on android emulator:
     
   <image src="https://user-images.githubusercontent.com/67940767/163109232-6d48bcb5-4f10-405a-8eb3-9e4b2628a7cf.png" width="30%" height="30%">
 
