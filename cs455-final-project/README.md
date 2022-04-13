@@ -5,8 +5,10 @@
   <image src="https://user-images.githubusercontent.com/67940767/162885546-0c723dab-77a0-4d5c-bc89-beba41fdf74f.png" width="50%" height="50%">
 </p>
   
-The My3dmodel Viewer app allows users to view prebuilt 3d objects on the application. They can rotate the object, change the object's color, and toggle the background color of the object.
-
+---
+  
+## Concise Project Description:
+The My3dmodel Viewer app allows users to view prebuilt 3d objects on the application. They can do this by looking through the App's menu and viewing the prebuilt 3d objects tabs. They can also rotate the object, change the object's color, and toggle the background color of the object.
 
 -----
 ## Table of contents
