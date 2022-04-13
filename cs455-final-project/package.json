@@ -15,7 +15,6 @@
     "react-native": "0.64.3",
     "react-native-web": "0.17.1",
     "three": "^0.108.0",
-    "expo-gl": "~11.0.3",
     "scheduler": "0.13.3",
     "expo-three": "5.0.0",
     "react-3d-viewer": "*",
@@ -26,7 +25,8 @@
     "@react-navigation/drawer": "*",
     "@react-navigation/native": "6.0.0",
     "react-native-gesture-handler": "~1.10.2",
-    "react-native-safe-area-context": "3.3.2"
+    "react-native-safe-area-context": "3.3.2",
+    "expo-gl": "~11.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
