@@ -1,4 +1,4 @@
-# Final Project -- My3dmodel Viewer App by Mikha Aguilar for CS455
+# Final Project -- My3dmodel Viewer App. Version 0.1
 ***
 
 <p align="center">
@@ -111,7 +111,7 @@ This and other files meta information of where and how the app was developed in,
     
 -----
 ### Copyright Information
-* The shapes used in the My3dModel viewer app are the [BufferGeometry](https://threejs.org/docs/index.html#api/en/geometries/BoxGeometry "BufferGeometry") from three.js
+* The shapes used in the My3dModel viewer app are the [BufferGeometry](https://threejs.org/docs/index.html#api/en/geometries/BoxGeometry "BufferGeometry") generated shapes from three.js
 
 -----
 ### Bug List
